@@ -5,8 +5,8 @@ Visitcard
 
 Desktop version
 ---------------
-![View](assets/images/vizitcard.jpg)
+![Desktop](assets/images/vizitcard.jpg)
 
 Mobile version
 ------------------------------
-![Mobile view](assets/images/vizitcard_mobile.jpg)
+![Mobile](assets/images/vizitcard_mobile.jpg)
